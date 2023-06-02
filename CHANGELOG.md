@@ -1,3 +1,7 @@
+## 1.0.1
+
+* Update analyzer version.
+
 ## 1.0.0
 
 - Better support for the environment control panel on larger screens.
